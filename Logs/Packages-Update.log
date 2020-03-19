@@ -1,0 +1,9 @@
+
+=== Wed Mar 18 19:35:56 2020
+
+Packages were changed.
+Update Mode: resetToDefaultDependencies
+
+The following packages were removed:
+  com.unity.xr.oculus.android@1.38.6
+  com.unity.xr.oculus.standalone@1.38.4
