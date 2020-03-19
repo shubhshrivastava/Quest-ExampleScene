@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/MixedRealityToolkit.ThirdParty/MRTK-Quest.Examples/Scenes/MRTK-Quest_2.3.unity
+  isLoaded: 1
+  isActive: 1
